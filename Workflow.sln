@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.352
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Workflow", "Workflow\Workflow.fsproj", "{7FB339F4-C768-432E-8D76-7E7FBE3A1495}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7FB339F4-C768-432E-8D76-7E7FBE3A1495}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FB339F4-C768-432E-8D76-7E7FBE3A1495}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FB339F4-C768-432E-8D76-7E7FBE3A1495}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FB339F4-C768-432E-8D76-7E7FBE3A1495}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {602C8A5B-D6F6-4BE0-B633-FC913A4D6D39}
+	EndGlobalSection
+EndGlobal
